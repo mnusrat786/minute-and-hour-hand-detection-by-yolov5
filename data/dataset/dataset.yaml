@@ -1,0 +1,4 @@
+train: data/dataset/images/train
+val: data/dataset/images/val
+nc: 2
+names: ['minutes','hours']
